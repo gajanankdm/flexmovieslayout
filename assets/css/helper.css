@@ -1,0 +1,38 @@
+
+a:link,a:visited{
+    text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+
+.d-flex{
+    display: flex;
+
+}
+.flex-direction-column{
+    flex-direction: column;
+}
+.section-heading{
+    color: black;
+    margin: 30px 0;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
